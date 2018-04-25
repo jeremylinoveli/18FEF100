@@ -76,6 +76,8 @@ void main(void)
 		for(i=0;i<1000000;i++)
 			;
 			;
+			;
+			;
 		canTransmit(canREG1,canMESSAGE_BOX1,tx_data);
 	}
 
