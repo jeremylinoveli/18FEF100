@@ -80,6 +80,7 @@ void main(void)
 			;
 		canTransmit(canREG1,canMESSAGE_BOX1,tx_data);
 	}
+	//version1
 
 /* USER CODE END */
 }
